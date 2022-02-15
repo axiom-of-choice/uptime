@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: Axiom of choice web page
     url: https://axiom-of-choice.herokuapp.com/
+  - name: Mnist number recognition
+    url: https://num-recognizer.herokuapp.com/
   - name: Google
     url: https://www.google.com
 
