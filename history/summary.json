@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 73,
-    "timeWeek": 208,
-    "timeMonth": 213,
-    "timeYear": 213,
+    "time": 219,
+    "timeDay": 328,
+    "timeWeek": 245,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/num-recognizer.herokuapp.com",
     "slug": "mnist-number-recognition",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 97,
-    "timeWeek": 142,
-    "timeMonth": 142,
-    "timeYear": 142,
+    "uptime": "69.86%",
+    "uptimeDay": "11.75%",
+    "uptimeWeek": "69.86%",
+    "uptimeMonth": "69.86%",
+    "uptimeYear": "69.86%",
+    "time": 175,
+    "timeDay": 236,
+    "timeWeek": 175,
+    "timeMonth": 175,
+    "timeYear": 175,
     "dailyMinutesDown": {
-      "2022-02-17": 0
+      "2022-02-18": 67,
+      "2022-02-17": 1204
     }
   },
   {
@@ -49,8 +50,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 115,
-    "timeWeek": 112,
+    "timeDay": 95,
+    "timeWeek": 116,
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {}
