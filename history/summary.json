@@ -4,10 +4,10 @@
     "url": "https://axiom-of-choice.herokuapp.com/",
     "icon": "https://favicons.githubusercontent.com/axiom-of-choice.herokuapp.com",
     "slug": "axiom-of-choice-web-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
@@ -15,25 +15,28 @@
     "timeWeek": 203,
     "timeMonth": 211,
     "timeYear": 211,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-24": 1
+    }
   },
   {
     "name": "Mnist number recognition",
     "url": "https://num-recognizer.herokuapp.com/",
     "icon": "https://favicons.githubusercontent.com/num-recognizer.herokuapp.com",
     "slug": "mnist-number-recognition",
-    "status": "up",
-    "uptime": "88.77%",
+    "status": "down",
+    "uptime": "89.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.68%",
-    "uptimeMonth": "88.77%",
-    "uptimeYear": "88.77%",
+    "uptimeWeek": "93.34%",
+    "uptimeMonth": "89.54%",
+    "uptimeYear": "89.54%",
     "time": 191,
     "timeDay": 56,
-    "timeWeek": 210,
+    "timeWeek": 215,
     "timeMonth": 191,
     "timeYear": 191,
     "dailyMinutesDown": {
+      "2022-02-24": 0,
       "2022-02-18": 239,
       "2022-02-17": 1204
     }
