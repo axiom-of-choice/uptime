@@ -1,7 +1,7 @@
 url: https://axiom-of-choice.herokuapp.com/
-status: down
-code: 503
-responseTime: 231
-lastUpdated: 2022-08-31T23:11:29.281Z
+status: up
+code: 200
+responseTime: 6429
+lastUpdated: 2022-09-01T00:33:48.592Z
 startTime: Tue Mar 15 2022 03:32:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
