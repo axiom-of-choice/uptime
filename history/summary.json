@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 112,
-    "timeWeek": 88,
-    "timeMonth": 80,
+    "timeDay": 23,
+    "timeWeek": 79,
+    "timeMonth": 79,
     "timeYear": 95,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/axiom-of-choice.herokuapp.com.ico",
     "slug": "axiom-of-choice-web-page-heroku",
     "status": "down",
-    "uptime": "53.48%",
+    "uptime": "53.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "47.59%",
     "time": 285,
-    "timeDay": 212,
-    "timeWeek": 146,
-    "timeMonth": 127,
-    "timeYear": 263,
+    "timeDay": 81,
+    "timeWeek": 115,
+    "timeMonth": 128,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2023-05-29": 78,
+      "2023-05-30": 79,
+      "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
@@ -229,8 +230,7 @@
       "2022-07-29": 1026,
       "2022-06-28": 594,
       "2022-06-01": 86,
-      "2022-05-31": 1440,
-      "2022-05-30": 1440
+      "2022-05-31": 1440
     }
   },
   {
@@ -245,10 +245,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 166,
-    "timeWeek": 134,
-    "timeMonth": 130,
-    "timeYear": 167,
+    "timeDay": 23,
+    "timeWeek": 94,
+    "timeMonth": 127,
+    "timeYear": 166,
     "dailyMinutesDown": {}
   },
   {
@@ -263,9 +263,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 361,
-    "timeWeek": 160,
-    "timeMonth": 122,
+    "timeDay": 60,
+    "timeWeek": 155,
+    "timeMonth": 121,
     "timeYear": 100,
     "dailyMinutesDown": {}
   }
