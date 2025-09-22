@@ -4,18 +4,20 @@
     "url": "https://axiom-of-choice.github.io/",
     "icon": "https://icons.duckduckgo.com/ip3/axiom-of-choice.github.io.ico",
     "slug": "personal-page-github",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 285,
+    "timeDay": 218,
     "timeWeek": 151,
-    "timeMonth": 126,
+    "timeMonth": 127,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-22": 7
+    }
   },
   {
     "name": "Google",
